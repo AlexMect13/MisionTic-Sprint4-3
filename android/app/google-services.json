@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "914147607667",
+    "firebase_url": "https://onlinewatchat-default-rtdb.firebaseio.com",
+    "project_id": "onlinewatchat",
+    "storage_bucket": "onlinewatchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914147607667:android:af8d87349bf332e3575606",
+        "android_client_info": {
+          "package_name": "com.example.f_chat_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914147607667-dik34rgi7tsk8c4snhm7l9uqvl51r8o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnpoTsEyjYlccndbN_x0hLyBfp8EQyi9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914147607667-dik34rgi7tsk8c4snhm7l9uqvl51r8o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
